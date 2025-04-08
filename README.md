@@ -1,6 +1,6 @@
 I tried 3 versions..
 
-Code1: not using panda library & not using define function.. however using lambda which is quite advanced
+Code1: not using panda library & not using define function.. however using lambda which is quite complicated
 
 Code2: using panda library but not using define function.. still using lambda
 
